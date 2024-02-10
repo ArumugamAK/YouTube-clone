@@ -4,7 +4,8 @@ export const timeSince = (date: Date) => {
     let interval = seconds / 31536000;
   
     if (interval > 1) {
-      return Math.floor(interval) + " years";
+      return Math.floor(interval) + " yearss";
+      
     }
     interval = seconds / 2592000;
     if (interval > 1) {
