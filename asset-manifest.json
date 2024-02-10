@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ArumugamAK/YouTube-clone/static/css/main.d20d6e1c.css",
-    "main.js": "/ArumugamAK/YouTube-clone/static/js/main.5bee9487.js",
-    "index.html": "/ArumugamAK/YouTube-clone/index.html",
-    "main.d20d6e1c.css.map": "/ArumugamAK/YouTube-clone/static/css/main.d20d6e1c.css.map",
-    "main.5bee9487.js.map": "/ArumugamAK/YouTube-clone/static/js/main.5bee9487.js.map"
+    "main.css": "/YouTube-clone/static/css/main.d20d6e1c.css",
+    "main.js": "/YouTube-clone/static/js/main.5bee9487.js",
+    "index.html": "/YouTube-clone/index.html",
+    "main.d20d6e1c.css.map": "/YouTube-clone/static/css/main.d20d6e1c.css.map",
+    "main.5bee9487.js.map": "/YouTube-clone/static/js/main.5bee9487.js.map"
   },
   "entrypoints": [
     "static/css/main.d20d6e1c.css",
